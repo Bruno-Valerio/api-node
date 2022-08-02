@@ -1,5 +1,5 @@
 {
-  "name": "api-node",
+  "name": "biblioteca-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.17.3",
     "mongoose": "^6.2.6"
   }
 }
